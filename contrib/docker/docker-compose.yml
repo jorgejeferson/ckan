@@ -7,7 +7,7 @@ volumes:
   ckan_home:
   ckan_storage:
   pg_data:
-
+ 
 services:
   ckan:
     container_name: ckan
